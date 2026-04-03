@@ -1,5 +1,6 @@
 # 🏆 Classroom Random Name Picker
 A fun, interactive web app for teachers to randomly select students without picking the same person twice in a single round.
+**[🔗 View the Live App Here](https://mskayrandomizer.streamlit.app/)**
 
 ## 🎮 Features
 - **Fair Picking:** Uses weighted logic so everyone gets exactly one turn.
