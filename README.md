@@ -1,5 +1,4 @@
 # 🏆 Classroom Random Name Picker
-
 A fun, interactive web app for teachers to randomly select students without picking the same person twice in a single round.
 
 ## 🎮 Features
@@ -14,11 +13,14 @@ A fun, interactive web app for teachers to randomly select students without pick
 3. **Celebrate:** Listen for the win sound and see the winner on screen!
 
 ## 💻 Tech Stack
-- **Python** 🐍
-- **Streamlit** (Web Framework)
-- **Base64** (For custom audio injection)
+- **Python** 
+- **Streamlit** 
+- **Base64** 
 
 ## 📂 Project Structure
-- `app.py`: The main logic for the randomizer.
-- `win_sound.mp3`: The victory sound effect.
-- `requirements.txt`: Tells the server to install Streamlit.
+- `app.py`
+- `win_sound.mp3`
+- `requirements.txt`
+
+- 👩‍🏫 About the Creator
+Developed by Ms. Kay, a middle school science teacher and programmer dedicated to making STEM education more visual, accessible, and data-driven.
