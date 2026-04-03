@@ -25,4 +25,5 @@ A fun, interactive web app for teachers to randomly select students without pick
 - `requirements.txt`
 
 👩‍🏫 About the Creator
+
 Developed by Ms. Kay, a middle school science teacher and programmer dedicated to making STEM education more visual, accessible, and data-driven.
